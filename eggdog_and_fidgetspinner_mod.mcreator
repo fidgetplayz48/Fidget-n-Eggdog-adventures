@@ -1,0 +1,55 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Testblock123",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TabbyBite",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tabby",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabtabby": "Tabby",
+      "item.tabbybite.name": "Tabby Bite",
+      "tile.testblock123.name": "Testblock123"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "eggdog_and_fidgetspinner_mod",
+    "modName": "Eggdog and Fidgetspinner mod",
+    "version": "1.0.0",
+    "author": "Fidgetplayz",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

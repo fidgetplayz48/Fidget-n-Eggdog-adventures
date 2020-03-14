@@ -1,0 +1,21 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "catt",
+    "customModelName": "Normal",
+    "name": "Tabby Bite",
+    "creativeTab": {
+      "value": "CUSTOM:Tabby"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 7,
+    "saturation": 5.0,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}
